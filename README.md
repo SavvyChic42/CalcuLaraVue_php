@@ -23,7 +23,5 @@ Lints and fixes files<br>
 npm run lint<br>
 ```
 
-## License
 
-[MIT](LICENSE)
 
