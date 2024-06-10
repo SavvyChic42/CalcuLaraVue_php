@@ -1,31 +1,26 @@
-# vuejs-calculator
-
-- [Demonstration on Youtube](https://youtu.be/1EgszRlxs9w)
+vuejs-calculator<br>
 
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Project setup<br>
 
-### Compiles and minifies for production
-```
-npm run build
-```
+npm install<br>
 
-### Run your tests
-```
-npm run test
-```
 
-### Lints and fixes files
-```
-npm run lint
+Compiles and hot-reloads for development<br>
+npm run serve<br>
+
+
+Compiles and minifies for project<br>
+npm run build<br>
+
+Run your tests<br>
+npm run test<br>
+
+
+Lints and fixes files<br>
+
+npm run lint<br>
 ```
 
 ## License
